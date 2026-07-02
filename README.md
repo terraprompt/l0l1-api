@@ -7,9 +7,9 @@
 [![CI](https://github.com/skelf-research/l0l1-api/actions/workflows/ci.yml/badge.svg)](https://github.com/skelf-research/l0l1-api/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Docs](https://img.shields.io/badge/docs-docs.skelfresearch.com-blue)](https://docs.skelfresearch.com/l0l1)
+[![Docs](https://img.shields.io/badge/docs-skelfresearch.com-blue)](https://docs.skelfresearch.com/l0l1)
 
-[Documentation](https://docs.skelfresearch.com/l0l1) | [API Reference](https://docs.skelfresearch.com/l0l1/api) | [Examples](https://github.com/skelf-research/l0l1-api/tree/main/examples)
+[Website](https://l0l1.skelfresearch.com) | [Documentation](https://docs.skelfresearch.com/l0l1) | [API Reference](https://docs.skelfresearch.com/l0l1/api) | [Examples](https://github.com/skelf-research/l0l1-api/tree/main/examples) | [Skelf Research](https://skelfresearch.com)
 
 </div>
 
@@ -243,3 +243,15 @@ MIT License - see [LICENSE](LICENSE)
 Built by [Skelf Research](https://skelfresearch.com)
 
 </div>
+
+---
+
+## Part of Skelf Research
+
+`l0l1` is built by **[Skelf Research](https://skelfresearch.com)** — an independent UK AI research lab publishing production-grade open-source projects.
+
+🌐 [Website](https://l0l1.skelfresearch.com) · 📚 [Documentation](https://docs.skelfresearch.com/l0l1) · 🔬 [All projects](https://skelfresearch.com/projects) · 🤗 [Hugging Face](https://huggingface.co/skelfresearch)
+
+**Related projects:** [compere](https://compere.skelfresearch.com) (pairwise ranking) · [mpl](https://mpl.skelfresearch.com) (agent-comms contracts) · [savanty](https://savanty.skelfresearch.com) (English→constraint solver)
+
+<sub>Released under MIT / Apache-2.0. © Skelf Research Limited.</sub>
